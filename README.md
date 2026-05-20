@@ -13,6 +13,7 @@
 ### Certificates
 - **SQL 개발자(SQLD)**
 
+---
   
 ### Tech Stack
 
@@ -21,4 +22,4 @@
 </a>
 
 ## Contack
-![Gmail](https://img.shields.io/badge/Gmail-pokmeby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+[Gmail](https://img.shields.io/badge/Gmail-pokmeby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
