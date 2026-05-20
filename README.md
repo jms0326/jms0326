@@ -26,5 +26,3 @@
 
 ### Visitors
 <img src="https://count.getloli.com/@jms0326?name=jms0326&theme=3d-num&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
-
-https://raw.githubusercontent.com/jms0326/PROGRAMMERS-BADGE/master/static/result.svg
