@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Minho&fontSize=80&fontAlignY=35&desc=BackEnd%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=MinSeok&fontSize=80&fontAlignY=35&desc=BackEnd%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
 ### 개발자 정민석입니다
