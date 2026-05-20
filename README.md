@@ -5,7 +5,7 @@
 ### 개발자 정민석입니다
 ### BackEnd Developer
 
-<br><br>
+<br>
 
 ## About Me
 - "문제를 해결하며 성장하는" 개발자 정민석입니다
