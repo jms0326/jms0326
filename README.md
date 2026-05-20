@@ -5,6 +5,8 @@
 ### 개발자 정민석입니다
 ### BackEnd Developer
 
+<br><br>
+
 ## About Me
 - "문제를 해결하며 성장하는" 개발자 정민석입니다
 
@@ -22,3 +24,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   
+<br>
+
+## Contack
+![Gmail](https://img.shields.io/badge/Gmail-pokmeby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
