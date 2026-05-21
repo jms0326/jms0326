@@ -26,4 +26,3 @@
 
 ### Visitors
 <img src="https://count.getloli.com/@jms0326?name=jms0326&theme=3d-num&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jms0326&theme=dark&show_icons=true)
