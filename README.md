@@ -26,4 +26,4 @@
 
 ### Visitors
 <img src="https://count.getloli.com/@jms0326?name=jms0326&theme=3d-num&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
-<img src="https://count.getloli.com/api/count?site=사용자0561.github.io&theme=nice&color=auto&type=bubble&size=28&showIcon=true&format=short"/>
+<img src="https://count.getloli.com/@jms0326?name=jms0326&theme=nice&color=auto&type=bubble&size=28&showIcon=true&format=short"/>
