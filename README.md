@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=MinSeok&fontSize=80&fontAlignY=35&desc=BackEnd%20Developer&descAlignY=55&descAlign=50" />
-</div>
-
-
-<div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=blur&color=4FA9EBFF&height=100&section=header&text=If%20it%20won’t%20work,%20make%20it%20work&fontSize=30&fontColor=c9d1d9&animation=fadeIn&stroke=58a6ff&strokeWidth=0.2)
+  ![header](https://capsule-render.vercel.app/api?type=blur&color=4FA9EBFF&height=100&section=header&text=If%20it%20won’t%20work,%20make%20it%20work&fontSize=30&fontColor=c9d1d9&animation=fadeIn&stroke=58a6ff&strokeWidth=0.2)
 </div>
 
 ### Who am I
