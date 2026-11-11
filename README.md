@@ -20,8 +20,8 @@
  
 | 프로젝트 | 소개 | 역할 · 성과 |
 | :-- | :-- | :-- |
-| **[내Law남불](https://github.com/prgrms-aibe-devcourse/AIBE7_FinalProject_Team2)**<br><sub>2026.09 ~ 11 · 4명</sub> | 직접 판결을 내린 뒤 AI·실제 판결과 비교하는 체험형 서비스 | 백엔드 공통 기반 · AWS 인프라 담당<br>자동 배포 17회 모두 무사고 |
-| **[MatchEAT](https://github.com/prgrms-aibe-devcourse/AIBE7-Project2-Team02)**<br><sub>2026.08 ~ 09 · 4명</sub> | 케이터링 식자재 대량 주문 B2B 매칭 플랫폼 | 판매자 도메인 전담<br>역매칭 엔진 · 외부 API 장애 내성 설계 |
+| **[내Law남불](https://github.com/jms0326/AIBE7_FinalProject_Team2)**<br><sub>2026.09 ~ 11 · 4명</sub> | 직접 판결을 내린 뒤 AI·실제 판결과 비교하는 체험형 서비스 | 백엔드 공통 기반 · AWS 인프라 담당<br>자동 배포 17회 모두 무사고 |
+| **[MatchEAT](https://github.com/jms0326/AIBE7-Project2-Team02)**<br><sub>2026.08 ~ 09 · 4명</sub> | 케이터링 식자재 대량 주문 B2B 매칭 플랫폼 | 판매자 도메인 전담<br>역매칭 엔진 · 외부 API 장애 내성 설계 |
 | **조선호텔 사전 예약 시스템**<br><sub>실무 · 메인 담당</sub> | 투숙 전 모바일 사전 예약과 내부 고객 정보 시스템 연계 | 문자 자동 발송 · 6곳 → 9곳 확대<br>조선호텔 9개 지점 전체 도입 |
 
 👉 자세한 내용은 **[포트폴리오 사이트](https://jms0326.github.io/)** 에서 볼 수 있습니다.
