@@ -6,7 +6,7 @@
 
 ### Who am I
 
-> **새로운 기술을 즐기며 성장하는 백엔드 개발자를 꿈꾸는 정민석입니다.**
+> **운영 안정성과 데이터 정합성을 먼저 생각하는 백엔드 개발자 정민석입니다.**
 
 ### Activities
 - **유비스톰 기술지원 대리 (2021.10 ~ 2025.06, 3년 9개월)**
@@ -17,12 +17,12 @@
   - 최종 프로젝트 최우수팀 (전체 교육생 투표) · 운영진 선정 MVP
 
 ### Projects
-- **[내Law남불](https://github.com/prgrms-aibe-devcourse/AIBE7_FinalProject_Team2)** — 직접 판결을 내린 뒤 AI·실제 판결과 비교하는 체험형 서비스
-  - 백엔드 공통 기반 · 배포/운영(AWS 인프라) 담당, 자동 배포 17회 모두 무사고
-- **[MatchEAT](https://github.com/prgrms-aibe-devcourse/AIBE7-Project2-Team02)** — 케이터링 식자재 대량 주문 B2B 매칭 플랫폼
-  - 판매자 도메인 전담, 역매칭 엔진 · 외부 API 장애 내성 설계
-- **조선호텔 사전 예약·고객 정보 시스템** (실무 · 메인 담당) — 투숙 전 모바일 사전 예약과 내부 고객 정보 시스템 연계
-  - 스케줄러 기반 안내 문자 자동 발송, 적용 호텔 6곳 → 9곳 확대, 조선호텔 9개 지점 전체 도입
+ 
+| 프로젝트 | 소개 | 역할 · 성과 |
+| :-- | :-- | :-- |
+| **[내Law남불](https://github.com/prgrms-aibe-devcourse/AIBE7_FinalProject_Team2)**<br><sub>2026.09 ~ 11 · 4명</sub> | 직접 판결을 내린 뒤 AI·실제 판결과 비교하는 체험형 서비스 | 백엔드 공통 기반 · AWS 인프라 담당<br>자동 배포 17회 모두 무사고 |
+| **[MatchEAT](https://github.com/prgrms-aibe-devcourse/AIBE7-Project2-Team02)**<br><sub>2026.08 ~ 09 · 4명</sub> | 케이터링 식자재 대량 주문 B2B 매칭 플랫폼 | 판매자 도메인 전담<br>역매칭 엔진 · 외부 API 장애 내성 설계 |
+| **조선호텔 사전 예약 시스템**<br><sub>실무 · 메인 담당</sub> | 투숙 전 모바일 사전 예약과 내부 고객 정보 시스템 연계 | 문자 자동 발송 · 6곳 → 9곳 확대<br>조선호텔 9개 지점 전체 도입 |
 
 👉 자세한 내용은 **[포트폴리오 사이트](https://jms0326.github.io/)** 에서 볼 수 있습니다.
 
@@ -34,10 +34,10 @@
 ### Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,mysql,postgresql,docker,git,github,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,mysql,postgresql,docker,git,github,redis,nginx,aws,githubactions&theme=dark" />
 </a>
 
-### Contack
+### Contact
 ![Gmail](https://img.shields.io/badge/Gmail-pokmeby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jms0326.github.io-4FA9EB?style=flat&logo=githubpages&logoColor=white)](https://jms0326.github.io/)
 
